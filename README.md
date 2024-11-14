@@ -34,14 +34,19 @@ Utilizamos dois datasets de pinguins, contendo características como:
 Abaixo estão espaços reservados para as visualizações geradas ao longo do projeto:
 
 - **Matriz de Confusão (Cross-validation)**
+<img src="/images/crossvalmatriz.png">
   
 - **Matriz de Confusão (Holdout)**
+<img src="/images/houldoutmatriz.png">
   
 - **Gráficos de Linha de Aprendizado**
-  
+<img src="/images/learningcurve.png">
+
 - **Matriz de Confusão (Holdout - Dataset Padronizado)**
-  
+<img src="/images/pad_houldoutmatriz.png">
+
 - **Matriz de Confusão (Holdout - Dataset 10x Maior)**
+<img src="/images/houldoutmatrizbig.png">
 
 ## Resultados
 
