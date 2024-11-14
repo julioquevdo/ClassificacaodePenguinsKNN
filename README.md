@@ -7,8 +7,8 @@ Este projeto explora o comportamento do modelo K-Nearest Neighbors (KNN) com dat
 O objetivo deste projeto é avaliar como o KNN performa ao ser aplicado a datasets de tamanhos distintos. Exploramos a precisão e robustez do modelo em diferentes situações, incluindo a utilização de um dataset com aproximadamente 10 vezes mais dados.
 
 ## Estrutura do Projeto
-
-- `data/`: Contém os datasets utilizados (não incluídos neste repositório por questões de direitos).
+s
+- `data/`: Contém os datasets utilizados (retirados do Kaggle).
 - `notebooks/`: Notebooks com análise exploratória e execução do modelo.
 
 ## Dataset
