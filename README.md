@@ -10,7 +10,6 @@ O objetivo deste projeto é avaliar como o KNN performa ao ser aplicado a datase
 
 - `data/`: Contém os datasets utilizados (não incluídos neste repositório por questões de direitos).
 - `notebooks/`: Notebooks com análise exploratória e execução do modelo.
-- `src/`: Código-fonte do projeto, incluindo scripts para pré-processamento e treino do modelo.
 
 ## Dataset
 
@@ -47,8 +46,6 @@ Abaixo estão espaços reservados para as visualizações geradas ao longo do pr
 ## Resultados
 
 A configuração do modelo KNN foi feita levando em consideração a acurácia, obtendo resultados variados conforme as estratégias e tamanhos de datasets utilizados.
-
-Claro! Aqui está a seção "Como Executar o Projeto Localmente" em código Markdown:
 
 ## Como Executar o Projeto Localmente
 
